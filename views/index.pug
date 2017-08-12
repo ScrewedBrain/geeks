@@ -1,0 +1,20 @@
+html(lang=lang)
+    head
+        meta(name="viewport" content="initial-scale=0.5, maximum-scale=1")
+        title= title
+        link(href='/favicon.ico?v=1' rel='icon')
+    body
+        include menu-mobile.pug 
+        #preloader(style={position: 'fixed','z-index': '999',top: '0',left: '0',width: '100vw',height: '100vh',background: '#FC2672'})
+            img(src='images/packman.gif' style={'z-index': '1000',position: 'fixed',top: '50%','margin-top': '-32px',left: '50%','margin-left': '-32px'})
+        header
+            include header.pug
+        section.homesection
+        aside
+            include sidepoints.pug
+        footer
+            include footer.pug
+includes
+    script(src="/js/detectdevice.js")
+    link(rel='stylesheet', href='/css/main.css')
+    link(rel='stylesheet', href='/css/home1.css')

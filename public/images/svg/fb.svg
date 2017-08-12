@@ -1,0 +1,12 @@
+<svg width="31" height="31" viewBox="0 0 31 31" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>fb</title>
+<desc>Created using Figma</desc>
+<g id="Canvas"  >
+<g id="fb">
+<use xlink:href="#path0_fill" fill="#ffffff"/>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 15.003 0C 6.717 0 0 6.744 0 15.062C 0 22.523 5.409 28.701 12.501 29.898L 12.501 18.205L 8.882 18.205L 8.882 13.996L 12.501 13.996L 12.501 10.894C 12.501 7.294 14.691 5.332 17.891 5.332C 19.423 5.332 20.74 5.446 21.123 5.497L 21.123 9.26L 18.904 9.261C 17.164 9.261 16.828 10.091 16.828 11.309L 16.828 13.994L 20.979 13.994L 20.438 18.202L 16.828 18.202L 16.828 29.999C 24.252 29.092 30.007 22.756 30.007 15.058C 30.007 6.744 23.289 0 15.003 0Z"/>
+</defs>
+</svg>

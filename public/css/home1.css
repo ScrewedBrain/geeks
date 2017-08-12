@@ -1,0 +1,101 @@
+#home1 {
+  display: table;
+  height: 100%;
+  width: 100%; }
+  #home1 .first {
+    position: relative;
+    display: inline-block;
+    float: left;
+    width: 50%;
+    height: 100%; }
+    #home1 .first .inner {
+      position: absolute;
+      top: 50%;
+      padding-left: 15%;
+      margin-top: -110px;
+      width: 85%; }
+      #home1 .first .inner h1 {
+        color: #0A145A;
+        font-family: 'BoldCirce';
+        font-weight: bolder;
+        line-height: 1.2;
+        font-size: 3vw; }
+        #home1 .first .inner h1 .spink {
+          color: #FC2672; }
+      #home1 .first .inner p {
+        margin-top: 30px;
+        line-height: 1.2; }
+      #home1 .first .inner a.linkdesc {
+        color: #0A145A;
+        text-decoration: underline;
+        font-weight: bold; }
+      #home1 .first .inner a.linkdesc:hover {
+        color: #FC2672; }
+    #home1 .first .h1-left1 {
+      position: absolute;
+      bottom: 10%;
+      left: -20%; }
+    #home1 .first .h1-left2 {
+      position: absolute;
+      height: 55%;
+      max-width: 50%;
+      right: 20%;
+      bottom: -35%; }
+  #home1 .second {
+    position: relative;
+    display: inline-block;
+    float: left;
+    width: 50%;
+    height: 100%; }
+    #home1 .second .h1-pirple {
+      position: absolute;
+      top: 5%;
+      left: 42%;
+      height: 10%; }
+    #home1 .second .h1-main {
+      position: absolute;
+      top: 20%;
+      left: 5%;
+      width: 90%;
+      max-height: 75%; }
+    #home1 .second .h1-botyel {
+      position: absolute;
+      bottom: -5%;
+      right: 20%;
+      height: 15%; }
+
+@media only screen and (max-width: 800px) {
+  #home1 .first {
+    width: 100%; }
+    #home1 .first .inner {
+      position: static;
+      top: 0;
+      padding: 0;
+      margin: 0 5%;
+      margin-top: 60px; }
+      #home1 .first .inner h1 {
+        font-size: 32px; }
+      #home1 .first .inner p {
+        font-size: 20px; }
+    #home1 .first .h1-left1 {
+      position: absolute;
+      max-height: 40%;
+      width: 40%;
+      bottom: -50%;
+      left: -15%; }
+    #home1 .first .h1-left2 {
+      display: none; }
+  #home1 .second {
+    position: relative;
+    width: 100%;
+    height: 250px; }
+    #home1 .second .h1-pirple {
+      top: -10%;
+      height: 15%;
+      left: 97%; }
+    #home1 .second .h1-main {
+      top: 10%;
+      left: 30%; }
+    #home1 .second .h1-botyel {
+      right: 45%;
+      height: 20%; } }

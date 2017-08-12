@@ -1,0 +1,116 @@
+<svg width="164" height="149" viewBox="0 0 164 149" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Page 1</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-1925 -3470)">
+<g id="Page 1">
+<g id="Fill 1">
+<use xlink:href="#path0_fill" transform="translate(1964.52 3478.65)" fill="#00BAF7"/>
+</g>
+<g id="Fill 2">
+<use xlink:href="#path1_fill" transform="translate(1956.77 3506.57)" fill="#00BAF7"/>
+</g>
+<g id="Fill 3">
+<use xlink:href="#path2_fill" transform="translate(1990.51 3472.34)" fill="#00BAF7"/>
+</g>
+<g id="Fill 4">
+<use xlink:href="#path3_fill" transform="translate(1989.13 3541.83)" fill="#00BAF7"/>
+</g>
+<g id="Fill 5">
+<use xlink:href="#path4_fill" transform="translate(1927.5 3476.7)" fill="#00BAF7"/>
+</g>
+<g id="Fill 6">
+<use xlink:href="#path5_fill" transform="translate(2024.95 3505.56)" fill="#00A2F8"/>
+</g>
+<g id="Fill 7">
+<use xlink:href="#path6_fill" transform="translate(2024.68 3541.38)" fill="#00BAF7"/>
+</g>
+<g id="Fill 8">
+<use xlink:href="#path7_fill" transform="translate(2021.7 3575.84)" fill="#00A2F8"/>
+</g>
+<g id="Fill 9">
+<use xlink:href="#path8_fill" transform="translate(2024.88 3474.69)" fill="#00BAF7"/>
+</g>
+<g id="Group 41">
+<g id="Fill 10">
+<use xlink:href="#path9_fill" transform="translate(1926.04 3471.93)" fill="#FFFFFF"/>
+</g>
+<g id="Fill 12">
+<use xlink:href="#path10_fill" transform="translate(1925.25 3471.15)" fill="#FFFFFF"/>
+</g>
+<g id="Fill 14">
+<use xlink:href="#path11_fill" transform="translate(1961.32 3476.45)" fill="#FFFFFF"/>
+</g>
+<g id="Fill 16">
+<use xlink:href="#path12_fill" transform="translate(1959.28 3474.58)" fill="#FFFFFF"/>
+</g>
+<g id="Fill 18">
+<use xlink:href="#path13_fill" transform="translate(2021.56 3472.65)" fill="#FFFFFF"/>
+</g>
+<g id="Fill 20">
+<use xlink:href="#path14_fill" transform="translate(2018.57 3470.23)" fill="#FFFFFF"/>
+</g>
+<g id="Group 24">
+<mask id="mask0_outline" mask-type="alpha">
+<g id="Clip 23">
+<use xlink:href="#path15_fill" transform="translate(1925 3470.17)" fill="#FFFFFF"/>
+</g>
+</mask>
+<g id="Fill 22" mask="url(#mask0_outline)">
+<use xlink:href="#path16_fill" transform="translate(1925 3470.17)" fill="#02105C"/>
+</g>
+</g>
+<g id="Fill 25">
+<use xlink:href="#path17_fill" transform="translate(1960.07 3475.16)" fill="#02105C"/>
+</g>
+<g id="Fill 27">
+<use xlink:href="#path18_fill" transform="translate(2019.81 3470.78)" fill="#02105C"/>
+</g>
+<g id="Fill 29">
+<use xlink:href="#path19_fill" transform="translate(1954.97 3497.27)" fill="#02105C"/>
+</g>
+<g id="Fill 31">
+<use xlink:href="#path20_fill" transform="translate(1988.27 3504.14)" fill="#02105C"/>
+</g>
+<g id="Fill 33">
+<use xlink:href="#path21_fill" transform="translate(2019.49 3574.5)" fill="#02105C"/>
+</g>
+<g id="Fill 35">
+<use xlink:href="#path22_fill" transform="translate(2023.18 3539.47)" fill="#02105C"/>
+</g>
+<g id="Fill 37">
+<use xlink:href="#path23_fill" transform="translate(2029.06 3509.63)" fill="#02105C"/>
+</g>
+<g id="Fill 39">
+<use xlink:href="#path24_fill" transform="translate(2027.88 3579.56)" fill="#02105C"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 25.2363 26.3153L 31.2436 19.4483L 0 0L 25.2363 26.3153Z"/>
+<path id="path1_fill" fill-rule="evenodd" d="M 66.0847 34.472L 33.0261 0L 0 37.7459L 32.1989 72.8019L 66.0847 34.472Z"/>
+<path id="path2_fill" fill-rule="evenodd" d="M 6.49145 25.9962L 0 33.4147L 33.063 67.891L 64.3196 32.5354L 30.3513 0L 6.49145 25.9962Z"/>
+<path id="path3_fill" fill-rule="evenodd" d="M 34.4828 0L 0.640461 38.28L 0 37.7155L 31.4412 71.9443L 66.5232 33.4082L 34.4828 0Z"/>
+<path id="path4_fill" fill-rule="evenodd" d="M 28.5276 66.8185L 61.5385 29.0921L 33.6383 0L 0 35.7594L 28.5276 66.8185Z"/>
+<path id="path5_fill" fill-rule="evenodd" d="M 58.2863 15.8118L 57.7543 16.6759L 30.7334 0L 0 34.7651L 33.3495 46.7818L 58.7443 16.2547L 58.2863 15.8118Z"/>
+<path id="path6_fill" fill-rule="evenodd" d="M 0 0L 31.997 33.3647L 60.9458 40.7289L 33.4907 12.0667L 0 0Z"/>
+<path id="path7_fill" fill-rule="evenodd" d="M 0 38.3039L 31.4955 41.1653L 64.5736 7.55961L 34.8693 0L 0 38.3039Z"/>
+<path id="path8_fill" fill-rule="evenodd" d="M 0 0L 31.0678 29.7738L 58.1104 46.4497L 27.3314 16.8083L 0 0Z"/>
+<path id="path9_fill" fill-rule="evenodd" d="M 128.815 33.1086L 94.8012 0C 94.8012 0 62.9605 34.5566 62.7782 34.0139C 62.598 33.4711 34.5545 3.97954 34.5545 3.97954L 0 41.0698L 1.26572 42.1553L 34.0117 7.23612L 61.0131 37.0729L 62.8216 34.1789L 65.898 36.1676L 94.9836 2.89401L 126.824 35.4598L 128.815 33.1086Z"/>
+<path id="path10_fill" fill-rule="evenodd" d="M 64.3391 34.7846L 66.5818 36.2348L 95.7434 2.87227L 127.58 35.4315L 128.856 33.9227L 95.6066 1.55444C 72.5196 26.6084 66.2171 33.1216 64.3391 34.7846ZM 1.56531 41.8016L 2.0082 42.1815L 34.8041 7.21234L 61.7165 36.9536L 62.9996 34.9019C 61.8858 33.5516 46.1153 16.8822 35.3447 5.54932L 1.56531 41.8016ZM 2.08855 43.6838L 0 41.8905L 0.386447 41.4758L 35.3361 3.96434L 35.7334 4.38336C 52.1943 21.6975 61.5559 31.6539 63.6357 34.0595C 66.3409 31.5563 83.6289 12.9503 95.1876 0.410329L 95.5654 0L 130.339 33.8489L 127.638 37.0425L 95.789 4.4702L 66.7816 37.6547L 63.7725 35.7116L 61.8772 38.7468L 61.3952 38.2149L 34.7911 8.81447L 2.08855 43.6838Z"/>
+<path id="path11_fill" fill-rule="evenodd" d="M 34.0139 20.625L 0 0L 3.43895 4.70467L 32.9284 23.3388L 34.0139 20.625Z"/>
+<path id="path12_fill" fill-rule="evenodd" d="M 5.85322 6.17453L 34.7065 24.4027L 35.3795 22.7223L 4.07947 3.74512L 5.85322 6.17453ZM 35.2275 26.0201L 34.6761 25.6684L 5.03684 6.89743L 0 0L 36.7277 22.2728L 35.2275 26.0201Z"/>
+<path id="path13_fill" fill-rule="evenodd" d="M 0 0L 30.9375 18.4539L 35.2796 22.7961L 6.55658 7.04072L 0 0Z"/>
+<path id="path14_fill" fill-rule="evenodd" d="M 9.88485 9.02282L 35.1993 22.9089L 33.545 21.2545L 5.97913 4.82617L 9.88485 9.02282ZM 41.3434 27.5159L 9.15099 9.82618L 0 0L 34.2071 20.4036L 41.3434 27.5159Z"/>
+<path id="path15_fill" fill-rule="evenodd" d="M 81.7813 148.524L 0 148.524L 0 0L 81.7813 0L 163.563 0L 163.563 148.524L 81.7813 148.524Z"/>
+<path id="path16_fill" fill-rule="evenodd" d="M 95.8042 143.368L 127.712 146.268L 160.534 112.921L 131.739 82.8582L 157.675 51.6819L 126.644 21.7952L 95.7565 2.7876L 71.5101 29.205L 36.0395 7.12536L 2.9635 42.2899L 95.8042 143.368ZM 128.539 148.524L 94.773 145.454L 0 42.2747L 35.6747 4.34428L 71.128 26.4109L 95.3657 0L 128.064 20.1495L 160.634 51.5147L 134.649 82.7562L 163.563 112.94L 128.539 148.524Z"/>
+<path id="path17_fill" fill-rule="evenodd" d="M 126.709 108.998L 95.4699 101.052L 95.2549 100.826L 0 1.5002L 1.5675 0L 96.6075 99.0999L 127.243 106.894L 126.709 108.998Z"/>
+<path id="path18_fill" fill-rule="evenodd" d="M 62.3266 51.9142L 34.7368 34.8606L 0 1.56967L 1.5002 0L 36.1545 33.2128L 63.4664 50.0645L 62.3266 51.9142Z"/>
+<path id="path19_fill" fill-rule="evenodd" d="M 1.63263 47.7436L 0 46.3151L 40.527 0L 42.1597 1.42855L 1.63263 47.7436Z"/>
+<path id="path20_fill" fill-rule="evenodd" d="M 1.62829 76.3386L 0 74.9013L 66.2171 0L 67.8454 1.43724L 1.62829 76.3386Z"/>
+<path id="path21_fill" fill-rule="evenodd" d="M 1.60658 40.8136L 0 39.3503L 35.8224 0L 37.4289 1.46329L 1.60658 40.8136Z"/>
+<path id="path22_fill" fill-rule="evenodd" d="M 34.6478 14.5265L 0 2.04296L 0.738158 0L 35.386 12.4836L 34.6478 14.5265Z"/>
+<path id="path23_fill" fill-rule="evenodd" d="M 26.5954 0L 0 29.5806L 28.1325 38.9878L 49.3003 13.6603L 26.5954 0Z"/>
+<path id="path24_fill" fill-rule="evenodd" d="M 29.4894 0L 0 31.6605L 24.4243 34.0139L 52.4657 5.60783L 29.4894 0Z"/>
+</defs>
+</svg>

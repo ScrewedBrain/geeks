@@ -1,0 +1,284 @@
+@import url(reset.css);
+@font-face {
+  font-family: 'BoldCirce';
+  font-style: normal;
+  font-weight: 400;
+  src: url("font/Circe-ExtraBold.woff") format("woff"); }
+
+@font-face {
+  font-family: 'Circe';
+  font-style: normal;
+  font-weight: 400;
+  src: url("font/Circe-Regular.woff") format("woff"); }
+
+html {
+  min-width: 350px;
+  min-height: 600px;
+  height: 100%;
+  width: 100%; }
+
+#menu-mobile {
+  position: fixed;
+  display: none;
+  z-index: 1000;
+  width: 100vw;
+  height: 100vh;
+  top: 0;
+  left: 0;
+  background: #ffffff;
+  text-align: center;
+  overflow: hidden; }
+  #menu-mobile .th-close {
+    width: 100%;
+    height: 100px;
+    position: relative; }
+    #menu-mobile .th-close #icon-cl {
+      position: absolute;
+      top: 5vw;
+      right: 5vw;
+      width: 9vw;
+      height: 9vw; }
+      #menu-mobile .th-close #icon-cl img {
+        max-width: 100%; }
+  #menu-mobile nav {
+    width: 100%; }
+    #menu-mobile nav ul {
+      display: table;
+      width: 100%;
+      margin-bottom: 10vh; }
+      #menu-mobile nav ul li {
+        text-align: center;
+        width: 100%;
+        margin-bottom: 3vh; }
+        #menu-mobile nav ul li a {
+          color: #FC2672;
+          font-size: 7vw; }
+        #menu-mobile nav ul li a:hover {
+          color: #FAC800; }
+  #menu-mobile a.btn {
+    font-size: 7vw;
+    padding: 1.5vw 3vw; }
+    #menu-mobile a.btn:hover {
+      color: #FAC800;
+      background: #0A145A; }
+  #menu-mobile .contacts {
+    position: absolute;
+    bottom: 5vh;
+    left: 50%;
+    font-size: 4vw;
+    margin-left: -16vw; }
+    #menu-mobile .contacts a {
+      color: #0A145A !important; }
+
+header {
+  position: relative;
+  font-family: 'Circe';
+  font-weight: bold;
+  min-height: 100px;
+  height: 15%;
+  margin-left: 5%;
+  width: 90%; }
+  header a {
+    color: #ffffff; }
+  header a:hover {
+    color: #FAC800; }
+  header .logo {
+    position: absolute;
+    top: 50%;
+    margin-top: -50px;
+    left: 50%;
+    margin-left: -146px;
+    max-width: 100%;
+    text-align: center; }
+    header .logo img {
+      margin-top: 2%; }
+  header nav {
+    position: absolute;
+    left: 0;
+    top: 50%;
+    margin-top: -15px;
+    display: inline-block; }
+    header nav .menunav {
+      width: 315px;
+      color: white; }
+      header nav .menunav li {
+        display: inline-block;
+        margin-right: 5%; }
+  header .sw-lang {
+    z-index: 998;
+    position: absolute;
+    color: #ffffff;
+    left: 50%;
+    margin-left: 140px;
+    top: 35px;
+    font-size: 20px; }
+  header a.cnt-btn {
+    position: absolute;
+    right: 0;
+    top: 50%;
+    margin-top: -20px;
+    width: 150px;
+    display: block; }
+  header a.menu-btn {
+    display: none; }
+  header a.cnt-btn:hover {
+    background: #ffffff; }
+
+.btn {
+  cursor: pointer;
+  background: #FAC800;
+  padding: 10px 15px;
+  text-align: center;
+  border-radius: 2px;
+  color: #0A145A;
+  box-shadow: #0A145A 1px 1px 0,#0A145A 2px 2px 0, #0A145A 3px 3px 0, #0A145A 4px 4px 0; }
+
+body {
+  height: 100%;
+  width: 100%;
+  font-family: 'Circe', sans-serif;
+  font-weight: 200;
+  display: table;
+  width: 100vw;
+  overflow: hidden;
+  background: #FC2672; }
+
+.homesection {
+  background: #ffffff;
+  width: 90%;
+  margin-left: 5%;
+  height: 70%; }
+
+footer {
+  position: relative;
+  margin-left: 5%;
+  width: 90%;
+  height: 15%; }
+  footer .socials {
+    position: absolute;
+    display: inline-block;
+    width: 300px;
+    top: 50%;
+    margin-top: -20px; }
+    footer .socials li {
+      width: 30px;
+      height: 30px;
+      display: inline-block;
+      margin-right: 4px;
+      -moz-transform: scale(-1, 1); }
+      footer .socials li a {
+        width: 100%;
+        height: 100%; }
+    footer .socials li.vk {
+      background: url("/images/svg/vk.svg"); }
+    footer .socials li.fb {
+      background: url("/images/svg/fb.svg"); }
+    footer .socials li.be {
+      background: url("/images/svg/be.svg"); }
+    footer .socials li.github {
+      background: url("/images/svg/github.svg"); }
+    footer .socials li.telegram {
+      background: url("/images/svg/telegram.svg"); }
+    footer .socials li.vk:hover {
+      background: url("/images/svg/vk-hover.svg"); }
+    footer .socials li.fb:hover {
+      background: url("/images/svg/fb-hover.svg"); }
+    footer .socials li.be:hover {
+      background: url("/images/svg/be-hover.svg"); }
+    footer .socials li.github:hover {
+      background: url("/images/svg/github-hover.svg"); }
+    footer .socials li.telegram:hover {
+      background: url("/images/svg/telegram-hover.svg"); }
+  footer .arrows {
+    width: 20px;
+    position: absolute;
+    left: 50%;
+    margin-left: -12px;
+    top: 50%;
+    margin-top: -20px; }
+    footer .arrows li {
+      list-style: none;
+      margin-bottom: 10px; }
+    footer .arrows .up-disabled {
+      background: url("/images/svg/up-disabled.svg");
+      height: 12px; }
+    footer .arrows .down {
+      background: url("/images/svg/down.svg");
+      height: 12px; }
+    footer .arrows .down:hover {
+      background: url("/images/svg/down-hover.svg");
+      height: 12px; }
+  footer .ft-cnt {
+    position: absolute;
+    right: 0;
+    top: 50%;
+    margin-top: -20px;
+    color: #ffffff; }
+    footer .ft-cnt a {
+      color: #ffffff;
+      float: right; }
+    footer .ft-cnt a:hover {
+      color: #FAC800; }
+
+#preloader {
+  display: none; }
+
+@media only screen and (max-width: 800px) {
+  .ofull {
+    display: none !important; }
+  .m100 {
+    width: 100% !important; }
+  .mcenter {
+    text-align: center !important;
+    float: none !important; }
+  .sw-lang {
+    left: 0 !important;
+    margin-left: 0 !important; }
+  header {
+    height: 120px; }
+    header a.menu-btn {
+      position: absolute;
+      display: block;
+      width: 48px;
+      height: 48px;
+      top: 50%;
+      right: 0;
+      margin-top: -24px;
+      background: url("../images/svg/ic_menu.svg");
+      background-size: 100%; }
+    header a.menu-btn:hover {
+      position: absolute;
+      display: block;
+      width: 48px;
+      height: 48px;
+      top: 50%;
+      right: 0;
+      margin-top: -24px;
+      background: url("../images/svg/ic_menu-hover.svg");
+      background-size: 100%; }
+  section {
+    height: auto !important; }
+  footer {
+    height: 120px; }
+  .mstat {
+    position: static !important; } }
+
+@media only screen and (min-width: 1200px) {
+  header nav ul {
+    font-size: 20px; }
+  footer {
+    font-size: 20px; }
+  #home1 .first .inner p {
+    font-size: 20px; }
+  .btn {
+    font-size: 20px; } }
+
+@media only screen and (min-width: 1600px) {
+  header nav ul {
+    font-size: 22px; }
+  footer {
+    font-size: 22px; }
+  #home1 .first .inner p {
+    font-size: 22px; }
+  .btn {
+    font-size: 22px; } }

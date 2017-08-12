@@ -1,0 +1,19 @@
+{
+  "name": "g2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "compression": "^1.6.2",
+    "gulp-minify": "^1.0.0",
+    "node-waf": "^1.0.0",
+    "serve-favicon": "^2.4.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "paveltiguntsev@yandex.ru",
+  "license": "ISC"
+}

@@ -1,0 +1,60 @@
+<svg width="357" height="195" viewBox="0 0 357 195" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Page 1</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-845 -1126)">
+<g id="Page 1">
+<g id="Fill 1">
+<use xlink:href="#path0_fill" transform="matrix(0.945519 0.325568 -0.325568 0.945519 1044.77 1186.63)" fill="#00BAF7"/>
+</g>
+<g id="Group 21">
+<g id="Fill 2">
+<use xlink:href="#path1_fill" transform="matrix(0.945519 0.325568 -0.325568 0.945519 854.954 1209.88)" fill="#00A2F8"/>
+</g>
+<g id="Fill 4">
+<use xlink:href="#path2_fill" transform="matrix(0.945519 0.325568 -0.325568 0.945519 888.823 1112.84)" fill="#00BAF7"/>
+</g>
+<g id="Fill 6">
+<use xlink:href="#path3_fill" transform="matrix(0.945519 0.325568 -0.325568 0.945519 885.517 1110.38)" fill="#FFFFFF"/>
+</g>
+<g id="Fill 8">
+<use xlink:href="#path4_fill" transform="matrix(0.945519 0.325568 -0.325568 0.945519 883.446 1107.75)" fill="#FFFFFF"/>
+</g>
+<g id="Group 12">
+<mask id="mask0_outline" mask-type="alpha">
+<g id="Clip 11">
+<use xlink:href="#path5_fill" transform="matrix(0.945519 0.325568 -0.325568 0.945519 883.656 1105.3)" fill="#FFFFFF"/>
+</g>
+</mask>
+<g id="Fill 10" mask="url(#mask0_outline)">
+<use xlink:href="#path6_fill" transform="matrix(0.945519 0.325568 -0.325568 0.945519 883.654 1105.3)" fill="#02105C"/>
+</g>
+</g>
+<g id="Fill 13">
+<use xlink:href="#path7_fill" transform="matrix(0.945519 0.325568 -0.325568 0.945519 853.221 1203.64)" fill="#02105C"/>
+</g>
+<g id="Fill 15">
+<use xlink:href="#path8_fill" transform="matrix(0.945519 0.325568 -0.325568 0.945519 1036.04 1180.26)" fill="#02105C"/>
+</g>
+<g id="Fill 17">
+<use xlink:href="#path9_fill" transform="matrix(0.945519 0.325568 -0.325568 0.945519 861.258 1221.14)" fill="#02105C"/>
+</g>
+<g id="Fill 19">
+<use xlink:href="#path10_fill" transform="matrix(0.945519 0.325568 -0.325568 0.945519 1010.47 1299.2)" fill="#02105C"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 167.294 19.3611L 27.5347 0L 0.00672727 102.396L 0 102.557L 180.325 125.807L 167.294 19.3611Z"/>
+<path id="path1_fill" fill-rule="evenodd" d="M 171.774 22.1462L 170.368 58.2784C 170.429 58.2716 170.496 58.2649 170.557 58.2582L 167.671 132.581L 167.482 132.574L 167.482 132.608L 164.119 132.473L 168.464 21.7224L 0 0L 35.9102 116.436L 310.47 152.009L 351.816 45.362L 171.774 22.1462Z"/>
+<path id="path2_fill" fill-rule="evenodd" d="M 0 99.4425L 168.168 121.125L 168.175 120.896L 195.656 18.5269L 61.9447 0L 0 99.4425Z"/>
+<path id="path3_fill" fill-rule="evenodd" d="M 341.967 38.6818L 65.5909 0L 0 101.467L 14.0129 103.714L 70.6364 8.40909L 344.208 47.6493L 341.967 38.6818Z"/>
+<path id="path4_fill" fill-rule="evenodd" d="M 5.62398 102.026L 15.9638 103.687L 72.5738 8.39559L 73.6838 8.55705L 344.786 47.4407L 343.427 42.005L 69.2303 3.62596L 5.62398 102.026ZM 17.686 107.367L 0 104.535L 67.5755 1.13687e-13L 68.6316 0.141273L 346.132 38.9845L 349.267 51.4838L 346.791 51.1273L 74.3229 12.0485L 17.686 107.367Z"/>
+<path id="path5_fill" fill-rule="evenodd" d="M 181.827 265.741L 0 265.741L 0 0L 181.827 0L 363.654 0L 363.654 265.741L 181.827 265.741Z"/>
+<path id="path6_fill" fill-rule="evenodd" d="M 43.2429 223.137L 315.428 258.395L 356.767 151.767L 343.737 45.288L 69.2775 7.26549L 7.33272 106.695L 43.2429 223.137ZM 319.788 265.741L 317.177 265.404L 38.0898 229.245L 2.27374e-13 105.753L 0.807273 104.441L 65.8735 -1.13687e-13L 68.0396 0.302727L 349.778 39.3411L 363.656 152.622L 363.347 153.409L 319.788 265.741Z"/>
+<path id="path7_fill" fill-rule="evenodd" d="M 356.545 52.6409L 0 6.67345L 0.854364 0L 357.4 45.9675L 356.545 52.6409Z"/>
+<path id="path8_fill" fill-rule="evenodd" d="M 6.72727 219.639L 0 219.376L 4.60818 104.273L 32.6407 0L 39.1258 1.74236L 11.1942 105.652L 6.72727 219.639Z"/>
+<path id="path9_fill" fill-rule="evenodd" d="M 0 0L 144.636 19.3409L 143.795 111.841L 31.9545 96.7045L 0 0Z"/>
+<path id="path10_fill" fill-rule="evenodd" d="M 5.04545 0L 158.091 20.1818L 127.818 105.955L 0 86.6136L 5.04545 0Z"/>
+</defs>
+</svg>

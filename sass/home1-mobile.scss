@@ -1,0 +1,58 @@
+@import 'colors.scss';
+#home1
+	.first {
+		position: relative;
+		display: table;
+		float: left;
+		width: 100%;
+		.inner {
+			h1 {
+
+				color: $dblue;
+				font-family: 'BoldCirce';
+				font-weight: bolder;
+				line-height: 1.2;
+				font-size: 5vw;
+				.spink {
+					color: $pink;
+					}
+			}
+			p {
+				font-size: 18px;
+				margin-top: 30px;
+				line-height: 1.2;
+			}
+			a.linkdesc {
+				color: $dblue;
+				text-decoration: underline;
+				font-weight: bold;
+			}
+			a.linkdesc:hover {
+				color: $pink;
+			}
+		}
+		
+	}
+	.second {
+		position: relative;
+		display: table;
+		.h1-pirple {
+			position: absolute;
+			top: 5%;
+			left: 42%;
+			height: 10%;
+		}
+		.h1-main {
+			position: absolute;
+			top: 20%;
+			left: -5%;
+			width: 100%;
+			max-height: 75%;
+		}
+		.h1-botyel {
+			position: absolute;
+			bottom: -5%;
+			right: 20%;
+			height: 15%;
+		}
+	}
