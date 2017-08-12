@@ -1,4 +1,0 @@
-{"host":"194.87.94.65:9666","connection":"keep-alive","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8","upgrade-insecure-requests":"1","user-agent":"Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36","accept-encoding":"gzip, deflate, sdch","accept-language":"ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4"}
-
-
-
